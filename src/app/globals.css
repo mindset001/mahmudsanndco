@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: #000;
+  background: #fff
+}
+.hero {
+  background-image: 
+    /* linear-gradient(to bottom, #BA8430, #FFD4D4), */
+    url('https://res.cloudinary.com/mindset/image/upload/v1721747066/Group_85_1_giv7lc.png');
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+  padding: 30px 0;
+}
+
+.hero-about {
+  background-image: url('https://res.cloudinary.com/mindset/image/upload/v1721737661/Rectangle_84_vjrbon.png');
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+  padding: 30px 0;
+}
+
+.hero-two {
+  background-image: url('https://res.cloudinary.com/mindset/image/upload/v1721746705/Group_84_uh4yxc.png');
+  background-size: cover;
+  background-position: center;
+  /* height: 70vh; */
+  padding: 30px 0;
+}
+.hero-news {
+  background-image: url('https://res.cloudinary.com/mindset/image/upload/v1721775532/Group_86_aokzxn.png');
+  background-size: cover;
+  background-position: center;
+  height: 40vh;
+}
+
+.contact{
+  background-image: url('https://res.cloudinary.com/mindset/image/upload/v1722448058/Group_88_e38enz.png');
+  background-size: cover;
+  background-position: center;
+  height: 40vh;
+}
+
+.practice{
+  background-image: url('https://res.cloudinary.com/mindset/image/upload/v1722672466/Group_139_jjziy1.png');
+  background-size: cover;
+  background-position: center;
+  /* height: 40vh; */
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
