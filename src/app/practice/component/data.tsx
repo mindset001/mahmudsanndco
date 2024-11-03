@@ -24,7 +24,7 @@ export const articles = [
                 id: 1,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, 
+                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', 
                 image3: Principal.src,
                 image4: Hauwa.src,// Adjusted for correct handling of image paths
                 name: 'MAHMUD ABUBAKAR MAGAJI,',
@@ -52,7 +52,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 2,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2:'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', // Adjusted for correct handling of image paths
                 image3: Benita.src,
                 image4:'',// Adjusted for correct handling of image paths
                 name: 'BENITA O. ODIGIE',
@@ -78,7 +78,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 3,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', // Adjusted for correct handling of image paths
                 image3: Ayeye.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: 'DANJUMA G. AYEYE',
@@ -108,7 +108,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 4,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', // Adjusted for correct handling of image paths
                 image3: Principal.src,
                 image4: Hauwa.src,// Adjusted for correct handling of image paths
                 name: 'MAHMUD ABUBAKAR MAGAJI,',
@@ -133,7 +133,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 5,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', // Adjusted for correct handling of image paths
                 image3: Adedeji.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: ' RIDWANULLAHI ADEDEJI BAMIGBOYE',
@@ -163,7 +163,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 6,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', // Adjusted for correct handling of image paths
                 image3: Principal.src,
                 image4: Hauwa.src,// Adjusted for correct handling of image paths
                 name: 'MAHMUD ABUBAKAR MAGAJI,',
@@ -191,7 +191,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 7,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', // Adjusted for correct handling of image paths
                 image3: Zukogi.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: 'AMINA1 T. ZUKOGI',
@@ -219,7 +219,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 8,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', // Adjusted for correct handling of image paths
                 image3: Ede.src,
                 image4: Firdausi.src,// Adjusted for correct handling of image paths
                 name: ' EDE UKO',
@@ -247,7 +247,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 9,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
                 image3: Principal.src,
                 image4: Hauwa.src,// Adjusted for correct handling of image paths
                 name: 'MAHMUD ABUBAKAR MAGAJI,',
@@ -273,7 +273,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 10,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
                 image3: Principal.src,
                 image4: Hauwa.src,// Adjusted for correct handling of image paths
                 name: 'MAHMUD ABUBAKAR MAGAJI,',
@@ -299,7 +299,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 11,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
                 image3: Badmos.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: 'ABDULKABIR ABIODUN BADMOS',
@@ -323,7 +323,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 12,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
                 image3: Aliyu.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: 'ALIYU D. HUSSAIN',
@@ -349,7 +349,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 13,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
                 image3: Efut.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: 'EFUT OKOI',
@@ -375,7 +375,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 14,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
                 image3: Chioma.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: 'CHIOMA OKEREKE',
@@ -401,7 +401,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 15,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2:'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
                 image3: Hamidu.src,
                 image4: Clement.src,// Adjusted for correct handling of image paths
                 name: 'HAMIDU MOHAMMED TUKUR',
@@ -427,7 +427,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 16,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
                 image3: Bunmi.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: 'COMFORT BUNMI ASHAOLU',
@@ -453,7 +453,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 17,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: New3.src, // Adjusted for correct handling of image paths
+                image2:'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
                 image3: Partner.src,
                 image4: Edet.src,// Adjusted for correct handling of image paths
                 name: 'OKECHUKWU GEORGE EDEZE',
