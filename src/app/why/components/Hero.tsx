@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import About from '../../../../public/images/about2.png'
+
 
 function Hero() {
   return (
@@ -11,7 +11,7 @@ function Hero() {
             </div>
             
         </div>
-        <Image src={About} alt=''/>
+        <Image src='https://res.cloudinary.com/mindset/image/upload/v1730620982/IMG_3251_lzlbcw.jpg' alt='' className='w-full' height={200} width={200}/>
     </main>
   )
 }

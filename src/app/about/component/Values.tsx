@@ -8,7 +8,7 @@ function Values() {
     <main className='flex justify-center items-center mt-20'>
         <div className='md:w-[80%] flex flex-col md:flex-row justify-between items-center'>
         <div className='md:w-[40%]'>
-                <Image src={Lady} alt='' />
+        <Image src='https://res.cloudinary.com/mindset/image/upload/v1730621079/IMG_3113_y9oks7.jpg ' className='h-full w-full' alt='' width={200} height={200}/>
             </div>
             <div  >
             <div className=''>
