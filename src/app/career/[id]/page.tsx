@@ -49,7 +49,7 @@ function Page({ params }: ArticlePageProps) {
                                     alt="Construction workers"
                                     width={800}
                                     height={600}
-                                    className="w-full h-[60vh]"
+                                    className="w-full "
                                 />
                                 <div className="text-gray-500 mt-4">{article.date} • Energy Law</div>
                                 <div className="mt-4 text-justify">

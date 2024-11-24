@@ -24,7 +24,7 @@ export const articles = [
                 id: 1,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', 
+                image2: 'https://media.istockphoto.com/id/2161147458/photo/the-judges-gavel-hammer-as-a-symbol-of-law-and-order-and-scales-icon-on-the-background-of.jpg?s=612x612&w=0&k=20&c=W6yOQ1dMjeTsWG4XMfk8dJ4R6pxVhwtpG6vK02LVWHE=', 
                 image3: Principal.src,
                 image4: Hauwa.src,// Adjusted for correct handling of image paths
                 name: 'MAHMUD ABUBAKAR MAGAJI,',
@@ -52,7 +52,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 2,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2:'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', // Adjusted for correct handling of image paths
+                image2:'https://media.istockphoto.com/id/1197254354/photo/techonology-balance.jpg?s=612x612&w=0&k=20&c=vbI42fe3Wvr0yfB2D65HECdG9rrHNMy34C6wP0SxPP4=', // Adjusted for correct handling of image paths
                 image3: Benita.src,
                 image4:'',// Adjusted for correct handling of image paths
                 name: 'BENITA O. ODIGIE',
@@ -78,7 +78,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 3,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', // Adjusted for correct handling of image paths
+                image2: 'https://media.istockphoto.com/id/2112766341/photo/lawyer-accepting-bribe-concept-for-signing-legal-contract-approval-rights-of-liberty-bribery.jpg?s=612x612&w=0&k=20&c=Sw_Ln028f-kKk_faaXn-t9NcMalTbBec7BReuHVWe38=', // Adjusted for correct handling of image paths
                 image3: Ayeye.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: 'DANJUMA G. AYEYE',
@@ -108,7 +108,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 4,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', // Adjusted for correct handling of image paths
+                image2: 'https://media.istockphoto.com/id/1656548160/photo/lawyer-hands-with-law-network-interface-icons.jpg?s=612x612&w=0&k=20&c=OtWqECdk7g83ibDOY5WmDAJJPbgIAu3Ydaj28SZKD8c=', // Adjusted for correct handling of image paths
                 image3: Principal.src,
                 image4: Hauwa.src,// Adjusted for correct handling of image paths
                 name: 'MAHMUD ABUBAKAR MAGAJI,',
@@ -133,7 +133,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 5,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', // Adjusted for correct handling of image paths
+                image2: 'https://media.istockphoto.com/id/1057613520/photo/good-service-cooperation-consultation-of-businesswoman-and-male-lawyer-or-judge-counselor.jpg?s=612x612&w=0&k=20&c=mKbqvxXZNVp_tfp0EIMuZI_-UKw0DzQ9bY3WDlo9d24=', // Adjusted for correct handling of image paths
                 image3: Adedeji.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: ' RIDWANULLAHI ADEDEJI BAMIGBOYE',
@@ -163,7 +163,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 6,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', // Adjusted for correct handling of image paths
+                image2: 'https://media.istockphoto.com/id/1562426503/photo/legal-advice-concept-on-virtual-screen.jpg?s=612x612&w=0&k=20&c=vgf7Pro5SrNRHXNTd211Jc_Ghp4pkR2_RLXlS2lms5k=', // Adjusted for correct handling of image paths
                 image3: Principal.src,
                 image4: Hauwa.src,// Adjusted for correct handling of image paths
                 name: 'MAHMUD ABUBAKAR MAGAJI,',
@@ -191,7 +191,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 7,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', // Adjusted for correct handling of image paths
+                image2: 'https://media.istockphoto.com/id/2066551116/photo/services-and-legal-consultancy-concept-business-legal-services-advice-justice-and-law.jpg?s=612x612&w=0&k=20&c=q5PeOUOioU2yl79WP6JbYdFweMFi_Zw738DDQRa7PKY=', // Adjusted for correct handling of image paths
                 image3: Zukogi.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: 'AMINA1 T. ZUKOGI',
@@ -219,7 +219,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 8,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621092/IMG_3276_zjku02.jpg', // Adjusted for correct handling of image paths
+                image2: 'https://media.istockphoto.com/id/1334437303/photo/house-model-gavel-and-law-books.jpg?s=612x612&w=0&k=20&c=IbpCoI74FmexGCPeo6c7CZc8Zv1UNH-8mt96sBfmQEk=', // Adjusted for correct handling of image paths
                 image3: Ede.src,
                 image4: Firdausi.src,// Adjusted for correct handling of image paths
                 name: ' EDE UKO',
@@ -247,7 +247,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 9,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
+                image2: 'https://media.istockphoto.com/id/1494529981/photo/the-statue-of-justice-themis-or-justitia-the-blindfolded-goddess-of-justice-against-ionic.jpg?s=612x612&w=0&k=20&c=X08-YWdzm8qs-OMfUeqkBWyght14wWFpcmoAO47VKLQ=', // Adjusted for correct handling of image paths
                 image3: Principal.src,
                 image4: Hauwa.src,// Adjusted for correct handling of image paths
                 name: 'MAHMUD ABUBAKAR MAGAJI,',
@@ -273,7 +273,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 10,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
+                image2: 'https://media.istockphoto.com/id/1054513236/photo/intellectual-property-rights-copyright-patent-or-trademark-infringement.jpg?s=612x612&w=0&k=20&c=NLzMSFEb3aTXLlvpfEJE1IMaUctPc7m7dVILGwSW5xw=', // Adjusted for correct handling of image paths
                 image3: Principal.src,
                 image4: Hauwa.src,// Adjusted for correct handling of image paths
                 name: 'MAHMUD ABUBAKAR MAGAJI,',
@@ -299,7 +299,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 11,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
+                image2: 'https://media.istockphoto.com/id/533699176/photo/law-book-with-a-gavel-aviation-law.jpg?s=612x612&w=0&k=20&c=JFN_6MxSRYkQMCKZYxaOBMEzWCdsCKB4Acjw4xGsXzs=', // Adjusted for correct handling of image paths
                 image3: Badmos.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: 'ABDULKABIR ABIODUN BADMOS',
@@ -323,7 +323,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 12,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
+                image2: 'https://media.istockphoto.com/id/1173082113/photo/maritime-law-black-book-and-wooden-gavel.jpg?s=612x612&w=0&k=20&c=RP0EW9WksD-F2D53novm2mx6Uu4SaNzdZQV_p6IOPHU=', // Adjusted for correct handling of image paths
                 image3: Aliyu.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: 'ALIYU D. HUSSAIN',
@@ -349,7 +349,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 13,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
+                image2: 'https://media.istockphoto.com/id/2161968107/photo/a-male-asian-lawyer-in-a-formal-suit-works-at-his-desk-focusing-on-contracts-legal-matters.jpg?s=612x612&w=0&k=20&c=Sryx7i2SMCw6DN1K1L78_IzR6K9BLl2PFw_osb2VYZ4=', // Adjusted for correct handling of image paths
                 image3: Efut.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: 'EFUT OKOI',
@@ -375,7 +375,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 14,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
+                image2: 'https://media.istockphoto.com/id/1488779366/photo/businessmen-and-lawyers-discuss-contract-documents-sign-a-business-contract.jpg?s=612x612&w=0&k=20&c=Yxwsl-OGrWDh2Nya3qtu3oW67qC4LqyR5Up2ZcKJYcU=', // Adjusted for correct handling of image paths
                 image3: Chioma.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: 'CHIOMA OKEREKE',
@@ -401,7 +401,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 15,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2:'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
+                image2:'https://media.istockphoto.com/id/1443301668/photo/graduate-interns-in-meeting.jpg?s=612x612&w=0&k=20&c=RdqO2Ah8OrV5rXKMvHTUYjap5oh_cSQKWYHPWiGP-mw=', // Adjusted for correct handling of image paths
                 image3: Hamidu.src,
                 image4: Clement.src,// Adjusted for correct handling of image paths
                 name: 'HAMIDU MOHAMMED TUKUR',
@@ -427,7 +427,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 16,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2: 'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
+                image2: 'https://media.istockphoto.com/id/928775004/photo/documents-with-title-alternative-dispute-resolution-adr-in-an-office.jpg?s=612x612&w=0&k=20&c=RgSJm3JbKBJjChte9xPUhPeNYWndceyRay8EP1GEDT4=', // Adjusted for correct handling of image paths
                 image3: Bunmi.src,
                 image4: '',// Adjusted for correct handling of image paths
                 name: 'COMFORT BUNMI ASHAOLU',
@@ -453,7 +453,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 17,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2:'https://res.cloudinary.com/mindset/image/upload/v1730621170/IMG_3236_guzwnh.jpg', // Adjusted for correct handling of image paths
+                image2:'https://media.istockphoto.com/id/1383989359/photo/sanctions-list-and-judges-gavel-on-background-of-usa-flag.jpg?s=612x612&w=0&k=20&c=piGMB6Jhjuxwn-hU9gMQ0SpxQDwl0l1S4VOyxOtGXRU=', // Adjusted for correct handling of image paths
                 image3: Partner.src,
                 image4: Edet.src,// Adjusted for correct handling of image paths
                 name: 'OKECHUKWU GEORGE EDEZE',

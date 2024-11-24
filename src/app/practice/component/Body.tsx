@@ -14,7 +14,7 @@ function Body() {
               <Link href={`/practice/component/${article.id}`}>
               <div
                 className='relative w-[280px] h-[181.61px] bg-cover bg-center rounded-[20px] flex justify-center items-center cursor-pointer'
-                style={{ backgroundImage: `url(${article.image})` }}
+                style={{ backgroundImage: `url(${article.image2})` }}
               >
                 <div className='absolute inset-0 bg-[#CDA233] opacity-50 hover:opacity-0 transition-opacity rounded-[20px]'></div>
                 <div className='text-white p-2 relative z-10'>

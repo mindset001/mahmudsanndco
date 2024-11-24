@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import Why1 from '../../../../public/images/why.png'
+import Why1 from '../../../../public/images/new/why2.jpg'
 import Link from 'next/link'
 function Why() {
   return (
@@ -15,7 +15,7 @@ function Why() {
            </Link>
         </div>
         <div className='md:w-1/2 h-[100vh]'>
-            <Image src='https://res.cloudinary.com/mindset/image/upload/v1730621232/IMG_3259_av0oqz.jpg' alt='' className='h-[100vh] w-full' width={200} height={200}/>
+            <Image src={Why1} alt='' className='h-[100vh] w-full' width={500} height={200}/>
         </div>
     </div>
    </main>

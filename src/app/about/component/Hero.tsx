@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import About from '../../../../public/images/chair.png'
+import About from '../../../../public/images/about3.jpg'
 
 function Hero() {
   return (
@@ -11,7 +11,7 @@ function Hero() {
             </div>
             
         </div>
-        <Image src='https://res.cloudinary.com/mindset/image/upload/v1730653909/Group_145_zkusea.png' alt='' width={200} height={200} className='w-full'/>
+        <Image src={About} alt='' width={500} height={500} className='w-full '/>
 
         <div className='w-full flex justify-center items-center mt-20'>
         <div className='w-[80%]'>

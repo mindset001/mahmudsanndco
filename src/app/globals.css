@@ -20,15 +20,32 @@ body {
   color: #000;
   background: #fff
 }
+
+@keyframes slideBackground {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -200% 0; /* Adjust this value to control the sliding distance */
+  }
+}
+
 .hero {
   background-image: 
-    /* linear-gradient(to bottom, #BA8430, #FFD4D4), */
-    url('https://res.cloudinary.com/mindset/image/upload/v1721747066/Group_85_1_giv7lc.png');
-  background-size: cover;
-  background-position: center;
+  url('https://res.cloudinary.com/mindset/image/upload/v1721747066/Group_85_1_giv7lc.png');
+  /* url('https://res.cloudinary.com/mindset/image/upload/v1721737661/Rectangle_84_vjrbon.png'),
+  url('https://res.cloudinary.com/mindset/image/upload/v1721746705/Group_84_uh4yxc.png'); */
+  background-size: auto 100%; /* Ensure the height fits fully without stretching */
+  background-repeat: repeat-x; /* Repeats the background horizontally */
+  background-position: 0 0;
+  width: 100vw; /* Ensures full viewport width */
   height: 90vh;
   padding: 30px 0;
+  overflow: hidden; /* Prevents horizontal scroll on desktop */
+  animation: slideBackground 20s linear infinite; /* Adjust duration for smoother effect */
 }
+
+
 
 .hero-about {
   background-image: url('https://res.cloudinary.com/mindset/image/upload/v1721737661/Rectangle_84_vjrbon.png');

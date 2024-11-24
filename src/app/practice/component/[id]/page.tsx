@@ -1,6 +1,7 @@
+'use client'
 import Image from 'next/image';
 import Link from 'next/link';
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import Comma from '../../../../../public/images/comma.png';
 import Man from '../../../../../public/images/man2.png'
 import { Divider } from 'antd';
@@ -14,6 +15,13 @@ interface ArticlePageProps {
 }
 
 function Page({ params }: ArticlePageProps) {
+    const [isClient, setIsClient] = useState(false);
+
+    useEffect(() => {
+        setIsClient(true); // This ensures client-only data is available only after hydration
+    }, []);
+
+    if (!isClient) return null; 
     const articleId = parseInt(params.id, 10);
 
     // Find the current article by ID
