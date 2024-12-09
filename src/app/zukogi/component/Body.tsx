@@ -10,7 +10,7 @@ function Body() {
             <div className='w-full md:w-[45%]'>
                 <div>
                    <div className='hidden md:block'>
-                   <h1 className='text-[28px] font-[500] capitalize'> AMINA1 T. ZUKOGI LL.B, BL, LL.M</h1>
+                   <h1 className='text-[28px] font-[500] capitalize'> AMINA T. ZUKOGI LL.B, BL, LL.M</h1>
                     <h2 className='text-[20px] font-[600]'>HOD</h2>
                     <Divider className='bg-black w-[80%]'/>
                    </div>
@@ -51,7 +51,7 @@ function Body() {
             </div>
             <div className='w-full md:w-[45%] flex flex-col items-center md:items-start'>
             <div className='block md:hidden w-full'>
-                   <h1 className='text-[28px] font-[500] capitalize'> AMINA1 T. ZUKOGI LL.B, BL, LL.M</h1>
+                   <h1 className='text-[28px] font-[500] capitalize'> AMINA T. ZUKOGI LL.B, BL, LL.M</h1>
                     <h2 className='text-[20px] font-[600]'>HOD</h2>
                     <Divider className='bg-black w-[80%]'/>
                    </div>

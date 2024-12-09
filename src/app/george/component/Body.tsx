@@ -10,7 +10,7 @@ function Body() {
             <div className='w-full md:w-[45%]'>
                 <div>
                    <div className='hidden md:block'>
-                   <h1 className='text-[28px] font-[500] capitalize'> OKECHUKWU GEORGE EDEZE LL.B, BL, LL.M</h1>
+                   <h1 className='text-[28px] font-[500] capitalize'> OKECHUKWU GEORGE EDEZE LL.B, BL, LL.M, SAN</h1>
                     <h2 className='text-[20px] font-[600]'>Partner</h2>
                     <Divider className='bg-black w-[80%]'/>
                    </div>
@@ -25,7 +25,7 @@ function Body() {
                 <div>
                 <h1 className='text-[28px] font-[500] mt-10'>Education</h1>
                     <ul className='list-disc flex flex-col gap-4 text-[16px] mt-2'>
-                        <li>Ahmadu Bello University, Zaria LLB., LLM</li>
+                        <li>Ahmadu Bello University, Zaria LLB., LLM, SAN</li>
                         <li>Nigerian Law School, BL.</li>
                         
                     </ul>

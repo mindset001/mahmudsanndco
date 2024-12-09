@@ -7,7 +7,7 @@ function Hero() {
     <main >
         <div className='w-full bg-[#000] mt-[-60px] text-[#fff] h-[30vh] flex flex-col items-center justify-center'>
             <div className='w-[80%] md:w-[70%]'>
-            <h1 className='text-[30px] md:text-[44px] font-[600]'> AMINA1 T. ZUKOGI</h1>
+            <h1 className='text-[30px] md:text-[44px] font-[600]'> AMINA T. ZUKOGI</h1>
             </div>
             
         </div>

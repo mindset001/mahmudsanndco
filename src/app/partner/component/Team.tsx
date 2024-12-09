@@ -39,7 +39,7 @@ function Team() {
         <div className='w-full flex flex-col md:flex-row mt-16'>
             <div className='relative items-center flex md:w-1/2'>
                 <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
-                   <Link href='/george'> <h1 className='text-[20px] font-[500] capitalize'>Okechukwu George</h1>
+                   <Link href='/george'> <h1 className='text-[20px] font-[500] capitalize'>OKECHUKWU GEORGE</h1>
                     <p  className='text-[14px] font-[400]'>Partner</p>
                     <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
                     </Link>

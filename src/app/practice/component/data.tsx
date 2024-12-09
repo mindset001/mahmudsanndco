@@ -18,6 +18,11 @@ import Zukogi from '../../../../public/images/zukogi.png';
 import Badmos from '../../../../public/images/badmos.png';
 import Aliyu from '../../../../public/images/aliyu.png';
 import Hamidu from '../../../../public/images/tukur.png';
+import Happy from '../../../../public/images/happiness.png'
+import Rabiu from '../../../../public/images/rabiu.png'
+import Chima from '../../../../public/images/chima.png'
+import Modu from '../../../../public/images/modu.png'
+import Admin from '../../../../public/images/admin.png'
 
 export const articles = [
         {
@@ -54,13 +59,13 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2:'https://media.istockphoto.com/id/1197254354/photo/techonology-balance.jpg?s=612x612&w=0&k=20&c=vbI42fe3Wvr0yfB2D65HECdG9rrHNMy34C6wP0SxPP4=', // Adjusted for correct handling of image paths
                 image3: Benita.src,
-                image4:'',// Adjusted for correct handling of image paths
+                image4: Efut.src,// Adjusted for correct handling of image paths
                 name: 'BENITA O. ODIGIE',
-                name2: ' ',
+                name2: 'EFUT OKOI ',
                 post: 'counsel',
-                post2: '',
+                post2: 'HOD',
                 link: '/benita',
-                link2: '/',
+                link2: '/efut',
                 title: 'Energy Law',
                 description: `Discover unparalleled legal support in the energy
 sector at M.A Mahmud SAN & Co. Our adept team
@@ -80,13 +85,13 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2: 'https://media.istockphoto.com/id/2112766341/photo/lawyer-accepting-bribe-concept-for-signing-legal-contract-approval-rights-of-liberty-bribery.jpg?s=612x612&w=0&k=20&c=Sw_Ln028f-kKk_faaXn-t9NcMalTbBec7BReuHVWe38=', // Adjusted for correct handling of image paths
                 image3: Ayeye.src,
-                image4: '',// Adjusted for correct handling of image paths
+                image4: Zukogi.src,// Adjusted for correct handling of image paths
                 name: 'DANJUMA G. AYEYE',
-                name2: '',
+                name2: 'Amina T. Zukogi',
                 post: 'Senior Counsel',
-                post2: '',
+                post2: 'HOD',
                 link: '/ayeye',
-                link2: '/hauwa',
+                link2: '/zukogi',
                 title: 'Corporate Transaction/Cross Border Transactions',
                 description: `Your
 trusted partner for Corporate Transactions and Cross-Border
@@ -109,13 +114,13 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2: 'https://media.istockphoto.com/id/1656548160/photo/lawyer-hands-with-law-network-interface-icons.jpg?s=612x612&w=0&k=20&c=OtWqECdk7g83ibDOY5WmDAJJPbgIAu3Ydaj28SZKD8c=', // Adjusted for correct handling of image paths
-                image3: Principal.src,
-                image4: Hauwa.src,// Adjusted for correct handling of image paths
-                name: 'MAHMUD ABUBAKAR MAGAJI,',
-                name2: ' HAUWA TUMAKA YUSUF',
-                post: 'Principal Partner',
+                image3: Admin.src,
+                image4: '',// Adjusted for correct handling of image paths
+                name: 'AFFIS A. MATANMI',
+                name2: ' ',
+                post: 'Legal Adviser',
                 post2: 'Senior Counsel',
-                link: '/principal',
+                link: '/hod',
                 link2: '/hauwa',
                 title: 'Securities Regulation',
                 description: `Your go-to partner for Securities
@@ -194,7 +199,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 image2: 'https://media.istockphoto.com/id/2066551116/photo/services-and-legal-consultancy-concept-business-legal-services-advice-justice-and-law.jpg?s=612x612&w=0&k=20&c=q5PeOUOioU2yl79WP6JbYdFweMFi_Zw738DDQRa7PKY=', // Adjusted for correct handling of image paths
                 image3: Zukogi.src,
                 image4: '',// Adjusted for correct handling of image paths
-                name: 'AMINA1 T. ZUKOGI',
+                name: 'AMINA T. ZUKOGI',
                 name2: ' ',
                 post: 'HOD',
                 post2: '',
@@ -248,14 +253,14 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2: 'https://media.istockphoto.com/id/1494529981/photo/the-statue-of-justice-themis-or-justitia-the-blindfolded-goddess-of-justice-against-ionic.jpg?s=612x612&w=0&k=20&c=X08-YWdzm8qs-OMfUeqkBWyght14wWFpcmoAO47VKLQ=', // Adjusted for correct handling of image paths
-                image3: Principal.src,
-                image4: Hauwa.src,// Adjusted for correct handling of image paths
-                name: 'MAHMUD ABUBAKAR MAGAJI,',
-                name2: ' HAUWA TUMAKA YUSUF',
-                post: 'Principal Partner',
+                image3: Bunmi.src,
+                image4: '',// Adjusted for correct handling of image paths
+                name: 'COMFORT BUNMI',
+                name2: ' ',
+                post: 'Senior Counsel',
                 post2: 'Senior Counsel',
-                link: '/principal',
-                link2: '/hauwa',
+                link: '/bunmi',
+                link2: '',
                 title: 'Human Right',
                 description: `We specialize in providing comprehensive legal
 services to individuals and organizations striving to uphold
@@ -274,14 +279,14 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2: 'https://media.istockphoto.com/id/1054513236/photo/intellectual-property-rights-copyright-patent-or-trademark-infringement.jpg?s=612x612&w=0&k=20&c=NLzMSFEb3aTXLlvpfEJE1IMaUctPc7m7dVILGwSW5xw=', // Adjusted for correct handling of image paths
-                image3: Principal.src,
-                image4: Hauwa.src,// Adjusted for correct handling of image paths
-                name: 'MAHMUD ABUBAKAR MAGAJI,',
-                name2: ' HAUWA TUMAKA YUSUF',
+                image3: Modu.src,
+                image4: '',// Adjusted for correct handling of image paths
+                name: 'MUNAKAR GREMA',
+                name2: ' ',
                 post: 'Principal Partner',
                 post2: 'Senior Counsel',
-                link: '/principal',
-                link2: '/hauwa',
+                link: '/grema',
+                link2: '',
                 title: 'Intellectual Property',
                 description: `Our seasoned team specializes in
 safeguarding your creative and innovative assets. From
@@ -351,13 +356,13 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2: 'https://media.istockphoto.com/id/2161968107/photo/a-male-asian-lawyer-in-a-formal-suit-works-at-his-desk-focusing-on-contracts-legal-matters.jpg?s=612x612&w=0&k=20&c=Sryx7i2SMCw6DN1K1L78_IzR6K9BLl2PFw_osb2VYZ4=', // Adjusted for correct handling of image paths
                 image3: Efut.src,
-                image4: '',// Adjusted for correct handling of image paths
+                image4: Chima.src,// Adjusted for correct handling of image paths
                 name: 'EFUT OKOI',
-                name2: '',
+                name2: 'CHIMA CHIEMEZIE',
                 post: 'HOD',
-                post2: '',
+                post2: 'Senior Counsel',
                 link: '/efut',
-                link2: '',
+                link2: '/chima',
                 title: 'Tax matters/Agents',
                 description: `Your go-to destination for expertise in
 tax matters. Our seasoned team of tax agents specializes in
@@ -403,13 +408,13 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2:'https://media.istockphoto.com/id/1443301668/photo/graduate-interns-in-meeting.jpg?s=612x612&w=0&k=20&c=RdqO2Ah8OrV5rXKMvHTUYjap5oh_cSQKWYHPWiGP-mw=', // Adjusted for correct handling of image paths
                 image3: Hamidu.src,
-                image4: Clement.src,// Adjusted for correct handling of image paths
+                image4: Happy.src,// Adjusted for correct handling of image paths
                 name: 'HAMIDU MOHAMMED TUKUR',
-                name2: ' CLEMENT OPU IJOM',
+                name2: ' NNAJI SOROCHUKWU HAPPINESS',
                 post: 'Senior Counsel',
-                post2: 'Senior Counsel',
+                post2: 'Counsel',
                 link: '/hamidu',
-                link2: '/clement',
+                link2: '/happiness',
                 title: 'Legal Training',
                 description: `Our experienced team specializes in providing
 comprehensive training programs for legal professionals, businesses, and individuals seeking to enhance their legal
@@ -429,13 +434,13 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2: 'https://media.istockphoto.com/id/928775004/photo/documents-with-title-alternative-dispute-resolution-adr-in-an-office.jpg?s=612x612&w=0&k=20&c=RgSJm3JbKBJjChte9xPUhPeNYWndceyRay8EP1GEDT4=', // Adjusted for correct handling of image paths
                 image3: Bunmi.src,
-                image4: '',// Adjusted for correct handling of image paths
+                image4: Rabiu.src,// Adjusted for correct handling of image paths
                 name: 'COMFORT BUNMI ASHAOLU',
-                name2: ' ',
+                name2: 'RABIU SULEIMAN ',
                 post: 'Senior Counsel',
-                post2: '',
+                post2: 'Counsel',
                 link: '/ashaolu',
-                link2: '',
+                link2: '/rabiu',
                 title: 'Alternative Dispute Resolution',
                 description: `Our seasoned legal team
 specializes in providing effective and efficient resolution
