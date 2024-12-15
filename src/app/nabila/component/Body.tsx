@@ -17,10 +17,8 @@ function Body() {
 
                     <div>
                     <h1 className='text-[28px] font-[500]'>Background</h1>
-                    <p className='font-[400] text-[16px] text-justify'>Danjuma G. Ayeye, Esq. is an experienced Legal Practitioner who graduated from the Ahmadu Bello University, Zaria in 1989, and was called to the Nigerian Bar in 1990, and has been in consistent practice since then till date.</p>
-                         <p className='mt-4 font-[400] text-[16px] text-justify'>He was appointed a member of the Yobe State Local Government Election Petition Appeal Tribunal in 1996 and a member of the Nasarawa/Nguru Disturbances Judicial Commission of Inquiry constituted by the Executive Governor of Yobe State.</p>
-                         <p className='mt-4 font-[400] text-[16px] text-justify'>Danjuma G. Ayeye is also a member of the Administration of Justice Committees for both Bade Judicial Division and Damaturu Judicial Division of the High Court of Yobe State as well as the Secretary to the Disciplinary Committee of the Nigerian Bar Association, Damaturu Branch from 1997-2001. </p>
-                         <p className='mt-4 font-[400] text-[16px] text-justify'>Danjuma G. Ayeye was a resource person in the reviewing of the Amendment of the 1999 Constitution Workshop organized by Ministry of Justice, Damaturu, Yobe State and a resource person to the Consultancy Service of Federal Polytechnic Damaturu. </p>
+                    <p className='font-[400] text-[16px] text-justify'>Nabila Abdullahi,  holds an LL.B from Ahmadu Bello University, Zaria (2015–2021), and a B.L from the Nigerian Law School, Bwari (2022). She gained valuable experience as a Law School extern at Mahmud & Co and FCT High Court 6, later serving as an NYSC associate at Mahmud & Co (January 2023–October 2023) and currently as Counsel at the same firm since November 2023. Her legal interests include Islamic Family Law, Contract Law, International Humanitarian Law, Criminal, and Civil Litigation. She is a member of the Nigerian Bar Association and the Institute of Chartered Mediators and Conciliators.</p>
+  
                     </div>
                 </div>
                 <div>

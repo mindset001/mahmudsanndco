@@ -11,16 +11,15 @@ function Body() {
                 <div>
                    <div className='hidden md:block'>
                    <h1 className='text-[28px] font-[500] capitalize'> HUSSAINI A MIBEZA LL.B, B.L</h1>
-                    <h2 className='text-[20px] font-[600]'>Council</h2>
+                    <h2 className='text-[20px] font-[600]'>Counsel</h2>
                     <Divider className='bg-black w-[80%]'/>
                    </div>
 
                     <div>
                     <h1 className='text-[28px] font-[500]'>Background</h1>
-                    <p className='font-[400] text-[16px] text-justify'>Danjuma G. Ayeye, Esq. is an experienced Legal Practitioner who graduated from the Ahmadu Bello University, Zaria in 1989, and was called to the Nigerian Bar in 1990, and has been in consistent practice since then till date.</p>
-                         <p className='mt-4 font-[400] text-[16px] text-justify'>He was appointed a member of the Yobe State Local Government Election Petition Appeal Tribunal in 1996 and a member of the Nasarawa/Nguru Disturbances Judicial Commission of Inquiry constituted by the Executive Governor of Yobe State.</p>
-                         <p className='mt-4 font-[400] text-[16px] text-justify'>Danjuma G. Ayeye is also a member of the Administration of Justice Committees for both Bade Judicial Division and Damaturu Judicial Division of the High Court of Yobe State as well as the Secretary to the Disciplinary Committee of the Nigerian Bar Association, Damaturu Branch from 1997-2001. </p>
-                         <p className='mt-4 font-[400] text-[16px] text-justify'>Danjuma G. Ayeye was a resource person in the reviewing of the Amendment of the 1999 Constitution Workshop organized by Ministry of Justice, Damaturu, Yobe State and a resource person to the Consultancy Service of Federal Polytechnic Damaturu. </p>
+                    <p className='font-[400] text-[16px] text-justify'>
+                    Hussaini A. Mibeza, Counsel, holds an LL.B from Ahmadu Bello University, Zaria (2011–2015), and a B.L from the Nigerian Law School, Kano Campus, Bagauda (2016). With extensive legal experience at Halal Chambers Minna (2017–2022), he specializes in civil and land matters, election-related cases, fundamental rights, and select criminal matters. His professional journey includes serving at the Ministry of Justice Sokoto/Law Reform Commission as a Youth Corps member (2016–2017) and an externship at B.U. Wada & Co Minna (2016). His legal areas of interest span Civil and Criminal Law, Election-Related Matters, Land Law, Maritime Law, and Alternative Dispute Resolution (ADR). He is a member of the Nigerian Bar Association (NBA) and the Muslim Lawyers Association of Nigeria (MULAN).</p>
+
                     </div>
                 </div>
                 <div>
@@ -48,7 +47,7 @@ function Body() {
             <div className='w-full md:w-[45%] flex flex-col items-center md:items-start'>
             <div className='block md:hidden w-full'>
             <h1 className='text-[28px] font-[500] capitalize'>HUSSAINI A MIBEZA LL.B, B.L</h1>
-            <h2 className='text-[20px] font-[600]'>Council</h2>
+            <h2 className='text-[20px] font-[600]'>Counsel</h2>
                     <Divider className='bg-black w-[80%]'/>
                    </div>
                 <Image src={Man} alt='' />

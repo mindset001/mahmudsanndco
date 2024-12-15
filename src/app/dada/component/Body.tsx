@@ -17,10 +17,8 @@ function Body() {
 
                     <div>
                     <h1 className='text-[28px] font-[500]'>Background</h1>
-                    <p className='font-[400] text-[16px] text-justify'>Danjuma G. Ayeye, Esq. is an experienced Legal Practitioner who graduated from the Ahmadu Bello University, Zaria in 1989, and was called to the Nigerian Bar in 1990, and has been in consistent practice since then till date.</p>
-                         <p className='mt-4 font-[400] text-[16px] text-justify'>He was appointed a member of the Yobe State Local Government Election Petition Appeal Tribunal in 1996 and a member of the Nasarawa/Nguru Disturbances Judicial Commission of Inquiry constituted by the Executive Governor of Yobe State.</p>
-                         <p className='mt-4 font-[400] text-[16px] text-justify'>Danjuma G. Ayeye is also a member of the Administration of Justice Committees for both Bade Judicial Division and Damaturu Judicial Division of the High Court of Yobe State as well as the Secretary to the Disciplinary Committee of the Nigerian Bar Association, Damaturu Branch from 1997-2001. </p>
-                         <p className='mt-4 font-[400] text-[16px] text-justify'>Danjuma G. Ayeye was a resource person in the reviewing of the Amendment of the 1999 Constitution Workshop organized by Ministry of Justice, Damaturu, Yobe State and a resource person to the Consultancy Service of Federal Polytechnic Damaturu. </p>
+                    <p className='font-[400] text-[16px] text-justify'>Joshua Philip Dada, a Senior Counsel, holds an LL.B in Law from Coventry University, UK, and was called to the Nigerian Bar after completing his BL at the Nigeria Law School, Bwari in 2014. He has gained valuable work experience at G.S. Pwul SAN & Co. His legal areas of interest include Litigation, Oil and Gas Law, and Public International Law. Joshua is also a member of professional associations such as the Nigerian Bar Association and the Unity Bar.</p>
+          
                     </div>
                 </div>
                 <div>

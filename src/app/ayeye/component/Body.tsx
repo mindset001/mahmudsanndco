@@ -11,7 +11,7 @@ function Body() {
                 <div>
                    <div className='hidden md:block'>
                    <h1 className='text-[28px] font-[500] capitalize'> DANJUMA G. AYEYE, ESQ. LL.B, BL.</h1>
-                    <h2 className='text-[20px] font-[600]'>Senior Council</h2>
+                    <h2 className='text-[20px] font-[600]'>Senior Counsel</h2>
                     <Divider className='bg-black w-[80%]'/>
                    </div>
 
@@ -44,7 +44,7 @@ function Body() {
             <div className='w-full md:w-[45%] flex flex-col items-center md:items-start'>
             <div className='block md:hidden w-full'>
             <h1 className='text-[28px] font-[500] capitalize'> DANJUMA G. AYEYE, ESQ. LL.B, BL.</h1>
-            <h2 className='text-[20px] font-[600]'>Senior Council</h2>
+            <h2 className='text-[20px] font-[600]'>Senior Counsel</h2>
                     <Divider className='bg-black w-[80%]'/>
                    </div>
                 <Image src={Man} alt='' />

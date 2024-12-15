@@ -11,16 +11,14 @@ function Body() {
                 <div>
                    <div className='hidden md:block'>
                    <h1 className='text-[28px] font-[500] capitalize'> ANJORIN OLANIYI DAVID LL.B, B.L</h1>
-                    <h2 className='text-[20px] font-[600]'>Senior Council</h2>
+                    <h2 className='text-[20px] font-[600]'>Senior Counsel</h2>
                     <Divider className='bg-black w-[80%]'/>
                    </div>
 
                     <div>
                     <h1 className='text-[28px] font-[500]'>Background</h1>
-                    <p className='font-[400] text-[16px] text-justify'>Danjuma G. Ayeye, Esq. is an experienced Legal Practitioner who graduated from the Ahmadu Bello University, Zaria in 1989, and was called to the Nigerian Bar in 1990, and has been in consistent practice since then till date.</p>
-                         <p className='mt-4 font-[400] text-[16px] text-justify'>He was appointed a member of the Yobe State Local Government Election Petition Appeal Tribunal in 1996 and a member of the Nasarawa/Nguru Disturbances Judicial Commission of Inquiry constituted by the Executive Governor of Yobe State.</p>
-                         <p className='mt-4 font-[400] text-[16px] text-justify'>Danjuma G. Ayeye is also a member of the Administration of Justice Committees for both Bade Judicial Division and Damaturu Judicial Division of the High Court of Yobe State as well as the Secretary to the Disciplinary Committee of the Nigerian Bar Association, Damaturu Branch from 1997-2001. </p>
-                         <p className='mt-4 font-[400] text-[16px] text-justify'>Danjuma G. Ayeye was a resource person in the reviewing of the Amendment of the 1999 Constitution Workshop organized by Ministry of Justice, Damaturu, Yobe State and a resource person to the Consultancy Service of Federal Polytechnic Damaturu. </p>
+                    <p className='font-[400] text-[16px] text-justify'>Anjorin Olaniyi David, Senior Counsel, holds an LL.B from Adekunle Ajasin University, Akungba-Akoko, Ondo State, and a B.L from the Nigerian Law School, Victoria Island, Lagos. With professional experience at Aderemi Olatubora SAN & Co, Omaplex Law Firm, and James Ochojila & Associates, his legal areas of interest include Dispute Resolution, Election-Related Matters, Intellectual Property, and Entertainment Law Practice. He is a member of the Nigerian Bar Association</p>
+
                     </div>
                 </div>
                 <div>
@@ -49,7 +47,7 @@ function Body() {
             <div className='w-full md:w-[45%] flex flex-col items-center md:items-start'>
             <div className='block md:hidden w-full'>
             <h1 className='text-[28px] font-[500] capitalize'> ANJORIN OLANIYI DAVID LL.B, B.L</h1>
-            <h2 className='text-[20px] font-[600]'>Senior Council</h2>
+            <h2 className='text-[20px] font-[600]'>Senior Counsel</h2>
                     <Divider className='bg-black w-[80%]'/>
                    </div>
                 <Image src={Man} alt='' />
