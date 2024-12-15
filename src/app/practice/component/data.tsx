@@ -467,7 +467,7 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 id: 17,
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
-                image2:'https://media.istockphoto.com/id/1383989359/photo/sanctions-list-and-judges-gavel-on-background-of-usa-flag.jpg?s=612x612&w=0&k=20&c=piGMB6Jhjuxwn-hU9gMQ0SpxQDwl0l1S4VOyxOtGXRU=', // Adjusted for correct handling of image paths
+                image2:'https://media.istockphoto.com/id/517500230/photo/election-voting-in-nigeria.jpg?s=612x612&w=0&k=20&c=YuCkzBTfJBPx-tMUEtNj34DEaGx_caJJlQGpVhmXLFw=', // Adjusted for correct handling of image paths
                 image3: Partner.src,
                 image4: Edet.src,// Adjusted for correct handling of image paths
                 name: 'OKECHUKWU GEORGE EDEZE',
