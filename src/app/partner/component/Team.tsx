@@ -22,6 +22,15 @@ import Man19 from '../../../../public/images/ede.png'
 import Man20 from '../../../../public/images/edet.png'
 import Man21 from '../../../../public/images/med.png'
 import Man22 from '../../../../public/images/modu.png'
+import Man23 from '../../../../public/images/dada.png'
+import Man24 from '../../../../public/images/khadijah.png'
+import Man25 from '../../../../public/images/zakiyyah.png'
+import Man26 from '../../../../public/images/zulu.png'
+import Man27 from '../../../../public/images/cyril.png'
+import Man28 from '../../../../public/images/eleja.png'
+import Man29 from '../../../../public/images/anjorin.png'
+import Man30 from '../../../../public/images/husseni.png'
+import Man31 from '../../../../public/images/nabila.png'
 
 import Image from 'next/image'
 import Link from 'next/link'
@@ -388,33 +397,33 @@ function Team() {
 
 
      {/* additinal members  */}
-     <h1>additional members</h1>
+     {/* <h1>additional members</h1> */}
 
      <div className='w-full'>
         <div className='w-full flex flex-col md:flex-row'>
             <div className='relative items-center flex md:w-1/2'>
                 <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
-                   <Link href='/rabiu'> <h1 className='text-[20px] font-[500]'>RABIU SULEIMAN</h1>
-                    <p  className='text-[14px] font-[400]'> Counsel</p>
+                   <Link href='/dada'> <h1 className='text-[20px] font-[500]'> JOSHUA PHILIP DADA</h1>
+                    <p  className='text-[14px] font-[400]'>Senior Counsel</p>
                     <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
                     </Link>
                 </div>
                 <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
                 <div className='w-1/2'>
-                    <Image src={Man14} alt='' className='w-full md:h-[440px] h-[265px]'/>
+                    <Image src={Man23} alt='' className='w-full md:h-[440px] h-[265px]'/>
                 </div>
             </div>
             <div className='relative flex flex-row-reverse md:flex-row md:w-1/2 items-center'>
                 <div className='w-1/2  h-[265px]  md:h-[440px]  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
 
-                <Link href='/ibrahim'>  <h1 className='text-[20px] font-[500]'> HAUWA SULE IBRAHIM</h1>
+                <Link href='/khadijah'>  <h1 className='text-[20px] font-[500]'> KHADIJAH MUSTAPAH</h1>
                     <p  className='text-[14px] font-[400]'>Counsel</p>
                     <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
                     </Link>
                 </div>
                 <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
                 <div className='w-1/2'>
-                    <Image src={Man13} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                    <Image src={Man24} alt='' className='w-full  h-[265px] md:h-[440px] '/>
                 </div>
             </div>
         </div>
@@ -423,13 +432,13 @@ function Team() {
         <div className='w-full flex flex-col md:flex-row'>
             <div className='relative flex flex-row-reverse md:flex-row md:w-1/2 items-center'>
             <div className='w-1/2'>
-                    <Image src={Man12} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                    <Image src={Man25} alt='' className='w-full  h-[265px] md:h-[440px] '/>
                 </div>
 
                 <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
                 <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
-                <Link href='/chioma'>  <h1 className='text-[20px] font-[500]'>  CHIOMA OKEREKE</h1>
-                    <p  className='text-[14px] font-[400]'>Senior Counsel</p>
+                <Link href='/zakiyyah'>  <h1 className='text-[20px] font-[500]'>  ZAKIYYAH SANUSI LAWAL</h1>
+                    <p  className='text-[14px] font-[400]'>Counsel</p>
                     <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
                     </Link>
                 </div>
@@ -437,13 +446,13 @@ function Team() {
             </div>
             <div className='flex md:w-1/2 items-center relative'>
             <div className='w-1/2 '>
-                    <Image src={Man11} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                    <Image src={Man26} alt='' className='w-full  h-[265px] md:h-[440px] '/>
                 </div>
                     <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
 
                 <div className=' h-[265px] md:h-[440px]   z-0 w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
-                <Link href='/fatima'> <h1 className='text-[20px] font-[500]'>FATIMA GURAMA</h1>
-                    <p  className='text-[14px] font-[400]'>Senior Counsel</p>
+                <Link href='/zulu'> <h1 className='text-[20px] font-[500]'>ZULU-GAMBARI YUSU</h1>
+                    <p  className='text-[14px] font-[400]'>Counsel</p>
                     <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
                     </Link>
                 </div>
@@ -455,27 +464,27 @@ function Team() {
         <div className='w-full flex flex-col md:flex-row'>
             <div className='relative items-center flex md:w-1/2'>
                 <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
-                   <Link href='/rabiu'> <h1 className='text-[20px] font-[500]'>RABIU SULEIMAN</h1>
+                   <Link href='/cyril'> <h1 className='text-[20px] font-[500]'>CYRIL IRORAKPOR</h1>
                     <p  className='text-[14px] font-[400]'> Counsel</p>
                     <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
                     </Link>
                 </div>
                 <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
                 <div className='w-1/2'>
-                    <Image src={Man14} alt='' className='w-full md:h-[440px] h-[265px]'/>
+                    <Image src={Man27} alt='' className='w-full md:h-[440px] h-[265px]'/>
                 </div>
             </div>
             <div className='relative flex flex-row-reverse md:flex-row md:w-1/2 items-center'>
                 <div className='w-1/2  h-[265px]  md:h-[440px]  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
 
-                <Link href='/ibrahim'>  <h1 className='text-[20px] font-[500]'> HAUWA SULE IBRAHIM</h1>
+                <Link href='/eleja'>  <h1 className='text-[20px] font-[500]'>ELEJA BANU ABDULRAHMAN</h1>
                     <p  className='text-[14px] font-[400]'>Counsel</p>
                     <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
                     </Link>
                 </div>
                 <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
                 <div className='w-1/2'>
-                    <Image src={Man13} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                    <Image src={Man28} alt='' className='w-full  h-[265px] md:h-[440px] '/>
                 </div>
             </div>
         </div>
@@ -484,12 +493,12 @@ function Team() {
         <div className='w-full flex flex-col md:flex-row'>
             <div className='relative flex flex-row-reverse md:flex-row md:w-1/2 items-center'>
             <div className='w-1/2'>
-                    <Image src={Man12} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                    <Image src={Man29} alt='' className='w-full  h-[265px] md:h-[440px] '/>
                 </div>
 
                 <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
                 <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
-                <Link href='/chioma'>  <h1 className='text-[20px] font-[500]'>  CHIOMA OKEREKE</h1>
+                <Link href='/anjorin'>  <h1 className='text-[20px] font-[500]'>   ANJORIN OLANIYI DAVID</h1>
                     <p  className='text-[14px] font-[400]'>Senior Counsel</p>
                     <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
                     </Link>
@@ -498,13 +507,13 @@ function Team() {
             </div>
             <div className='flex md:w-1/2 items-center relative'>
             <div className='w-1/2 '>
-                    <Image src={Man11} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                    <Image src={Man30} alt='' className='w-full  h-[265px] md:h-[440px] '/>
                 </div>
                     <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
 
                 <div className=' h-[265px] md:h-[440px]   z-0 w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
-                <Link href='/fatima'> <h1 className='text-[20px] font-[500]'>FATIMA GURAMA</h1>
-                    <p  className='text-[14px] font-[400]'>Senior Counsel</p>
+                <Link href='/mibeza'> <h1 className='text-[20px] font-[500]'>HUSSAINI A MIBEZA</h1>
+                    <p  className='text-[14px] font-[400]'> Counsel</p>
                     <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
                     </Link>
                 </div>
