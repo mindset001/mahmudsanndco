@@ -23,6 +23,15 @@ import Rabiu from '../../../../public/images/rabiu.png'
 import Chima from '../../../../public/images/chima.png'
 import Modu from '../../../../public/images/modu.png'
 import Admin from '../../../../public/images/admin.png'
+import Zulu from '../../../../public/images/zulu.png'
+import Cyril from '../../../../public/images/cyril.png'
+import Mibeza from '../../../../public/images/husseni.png'
+import Khadijah from '../../../../public/images/khadijah.png'
+import Zakiyyah from '../../../../public/images/zakiyyah.png'
+import Dada from '../../../../public/images/dada.png'
+import Eleja from '../../../../public/images/eleja.png'
+import Anjorin from '../../../../public/images/anjorin.png'
+import Nabila from '../../../../public/images/nabila.png'
 
 export const articles = [
         {
@@ -115,13 +124,13 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2: 'https://media.istockphoto.com/id/1656548160/photo/lawyer-hands-with-law-network-interface-icons.jpg?s=612x612&w=0&k=20&c=OtWqECdk7g83ibDOY5WmDAJJPbgIAu3Ydaj28SZKD8c=', // Adjusted for correct handling of image paths
                 image3: Admin.src,
-                image4: '',// Adjusted for correct handling of image paths
+                image4: Zulu.src,// Adjusted for correct handling of image paths
                 name: 'AFFIS A. MATANMI',
-                name2: ' ',
+                name2: ' ZULU-GAMBARI YUSU SIYANBOLA',
                 post: 'Legal Adviser',
-                post2: 'Senior Counsel',
+                post2: 'Counsel',
                 link: '/hod',
-                link2: '/hauwa',
+                link2: '/zulu',
                 title: 'Securities Regulation',
                 description: `Your go-to partner for Securities
 Regulation. Our seasoned team specializes in compliance &
@@ -140,13 +149,13 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2: 'https://media.istockphoto.com/id/1057613520/photo/good-service-cooperation-consultation-of-businesswoman-and-male-lawyer-or-judge-counselor.jpg?s=612x612&w=0&k=20&c=mKbqvxXZNVp_tfp0EIMuZI_-UKw0DzQ9bY3WDlo9d24=', // Adjusted for correct handling of image paths
                 image3: Adedeji.src,
-                image4: '',// Adjusted for correct handling of image paths
+                image4: Cyril.src,// Adjusted for correct handling of image paths
                 name: ' RIDWANULLAHI ADEDEJI BAMIGBOYE',
-                name2: ' ',
+                name2: ' CYRIL IRORAKPOR JNR',
                 post: 'Senior Counsel',
-                post2: '',
+                post2: 'Counsel',
                 link: '/adedeji',
-                link2: '',
+                link2: '/cyril',
                 title: 'Financial Services',
                 description: `Our dedicated team specializes in a
 range of financial matters, ensuring robust legal support
@@ -169,14 +178,14 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 date: '26 Jan. 2024',
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2: 'https://media.istockphoto.com/id/1562426503/photo/legal-advice-concept-on-virtual-screen.jpg?s=612x612&w=0&k=20&c=vgf7Pro5SrNRHXNTd211Jc_Ghp4pkR2_RLXlS2lms5k=', // Adjusted for correct handling of image paths
-                image3: Principal.src,
-                image4: Hauwa.src,// Adjusted for correct handling of image paths
-                name: 'MAHMUD ABUBAKAR MAGAJI,',
-                name2: ' HAUWA TUMAKA YUSUF',
-                post: 'Principal Partner',
-                post2: 'Senior Counsel',
-                link: '/principal',
-                link2: '/hauwa',
+                image3: Eleja.src,
+                image4: Nabila.src,// Adjusted for correct handling of image paths
+                name: 'ELEJA BANU ABDULRAHMAN',
+                name2: ' NABILA ABDULLAHI',
+                post: 'Counsel',
+                post2: 'Counsel',
+                link: '/eleja',
+                link2: '/nabila',
                 title: 'Economic Regulation',
                 description: `Ensuring your business aligns with
 evolving economic regulations is crucial. Our experts offer
@@ -198,13 +207,13 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2: 'https://media.istockphoto.com/id/2066551116/photo/services-and-legal-consultancy-concept-business-legal-services-advice-justice-and-law.jpg?s=612x612&w=0&k=20&c=q5PeOUOioU2yl79WP6JbYdFweMFi_Zw738DDQRa7PKY=', // Adjusted for correct handling of image paths
                 image3: Zukogi.src,
-                image4: '',// Adjusted for correct handling of image paths
+                image4: Mibeza.src,// Adjusted for correct handling of image paths
                 name: 'AMINA T. ZUKOGI',
-                name2: ' ',
+                name2: 'HUSSAINI A MIBEZA ',
                 post: 'HOD',
-                post2: '',
+                post2: 'Counsel',
                 link: '/zukogi',
-                link2: '/',
+                link2: '/mibeza',
                 title: 'IT & Telecommunication',
                 description: `Our dedicated team specializes in
 IT and Telecommunication law, offering comprehensive legal
@@ -254,13 +263,13 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2: 'https://media.istockphoto.com/id/1494529981/photo/the-statue-of-justice-themis-or-justitia-the-blindfolded-goddess-of-justice-against-ionic.jpg?s=612x612&w=0&k=20&c=X08-YWdzm8qs-OMfUeqkBWyght14wWFpcmoAO47VKLQ=', // Adjusted for correct handling of image paths
                 image3: Bunmi.src,
-                image4: '',// Adjusted for correct handling of image paths
+                image4: Khadijah.src,// Adjusted for correct handling of image paths
                 name: 'COMFORT BUNMI',
-                name2: ' ',
+                name2: 'KHADIJAH MUSTAPAH ',
                 post: 'Senior Counsel',
-                post2: 'Senior Counsel',
+                post2: 'Counsel',
                 link: '/bunmi',
-                link2: '',
+                link2: '/khadijah',
                 title: 'Human Right',
                 description: `We specialize in providing comprehensive legal
 services to individuals and organizations striving to uphold
@@ -280,13 +289,13 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2: 'https://media.istockphoto.com/id/1054513236/photo/intellectual-property-rights-copyright-patent-or-trademark-infringement.jpg?s=612x612&w=0&k=20&c=NLzMSFEb3aTXLlvpfEJE1IMaUctPc7m7dVILGwSW5xw=', // Adjusted for correct handling of image paths
                 image3: Modu.src,
-                image4: '',// Adjusted for correct handling of image paths
+                image4: Anjorin.src,// Adjusted for correct handling of image paths
                 name: 'MUNAKAR GREMA',
-                name2: ' ',
-                post: 'Principal Partner',
+                name2: 'ANJORIN OLANIYI DAVID ',
+                post: 'Counsel',
                 post2: 'Senior Counsel',
                 link: '/grema',
-                link2: '',
+                link2: '/anjorin',
                 title: 'Intellectual Property',
                 description: `Our seasoned team specializes in
 safeguarding your creative and innovative assets. From
@@ -306,13 +315,13 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2: 'https://media.istockphoto.com/id/533699176/photo/law-book-with-a-gavel-aviation-law.jpg?s=612x612&w=0&k=20&c=JFN_6MxSRYkQMCKZYxaOBMEzWCdsCKB4Acjw4xGsXzs=', // Adjusted for correct handling of image paths
                 image3: Badmos.src,
-                image4: '',// Adjusted for correct handling of image paths
+                image4: Zakiyyah.src,// Adjusted for correct handling of image paths
                 name: 'ABDULKABIR ABIODUN BADMOS',
-                name2: ' ',
+                name2: ' ZAKIYYAH SANUSI LAWAL',
                 post: 'Senior Counsel',
-                post2: '',
+                post2: 'Counsel',
                 link: '/badmos',
-                link2: '',
+                link2: '/zakiyyah',
                 title: 'Aviation ',
                 description: `Your destination for expert guidance in Aviation Law. Our dedicated legal team specializes in navigating the
 complexities of the aviation industry. From regulatory
@@ -330,13 +339,13 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2: 'https://media.istockphoto.com/id/1173082113/photo/maritime-law-black-book-and-wooden-gavel.jpg?s=612x612&w=0&k=20&c=RP0EW9WksD-F2D53novm2mx6Uu4SaNzdZQV_p6IOPHU=', // Adjusted for correct handling of image paths
                 image3: Aliyu.src,
-                image4: '',// Adjusted for correct handling of image paths
+                image4: Mibeza.src,// Adjusted for correct handling of image paths
                 name: 'ALIYU D. HUSSAIN',
-                name2: ' ',
+                name2: 'HUSSAINI A MIBEZA ',
                 post: 'HOD',
-                post2: '',
+                post2: 'Counsel',
                 link: '/aliyu',
-                link2: '',
+                link2: '/mibeza',
                 title: 'Maritime',
                 description: `Our seasoned legal team specializes in providing
 comprehensive services tailored to the intricate world of
@@ -382,13 +391,13 @@ At M.A Mahmud SAN & Co, we understand that each legal dispute is unique, requiri
                 image: New1.src, // Adjusted for correct handling of image paths
                 image2: 'https://media.istockphoto.com/id/1488779366/photo/businessmen-and-lawyers-discuss-contract-documents-sign-a-business-contract.jpg?s=612x612&w=0&k=20&c=Yxwsl-OGrWDh2Nya3qtu3oW67qC4LqyR5Up2ZcKJYcU=', // Adjusted for correct handling of image paths
                 image3: Chioma.src,
-                image4: '',// Adjusted for correct handling of image paths
+                image4: Dada.src,// Adjusted for correct handling of image paths
                 name: 'CHIOMA OKEREKE',
-                name2: ' ',
+                name2: 'JOSHUA PHILIP DADA',
                 post: 'Counsel',
-                post2: '',
+                post2: 'Senior Counsel',
                 link: '/chioma',
-                link2: '',
+                link2: '/dada',
                 title: 'International Legal Consultants/Advisory',
                 description: `Our expert team
 specializes in providing strategic legal solutions across
