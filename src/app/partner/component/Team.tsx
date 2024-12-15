@@ -385,6 +385,136 @@ function Team() {
 
         
      </div>
+
+
+     {/* additinal members  */}
+     <h1>additional members</h1>
+
+     <div className='w-full'>
+        <div className='w-full flex flex-col md:flex-row'>
+            <div className='relative items-center flex md:w-1/2'>
+                <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
+                   <Link href='/rabiu'> <h1 className='text-[20px] font-[500]'>RABIU SULEIMAN</h1>
+                    <p  className='text-[14px] font-[400]'> Counsel</p>
+                    <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
+                    </Link>
+                </div>
+                <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
+                <div className='w-1/2'>
+                    <Image src={Man14} alt='' className='w-full md:h-[440px] h-[265px]'/>
+                </div>
+            </div>
+            <div className='relative flex flex-row-reverse md:flex-row md:w-1/2 items-center'>
+                <div className='w-1/2  h-[265px]  md:h-[440px]  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
+
+                <Link href='/ibrahim'>  <h1 className='text-[20px] font-[500]'> HAUWA SULE IBRAHIM</h1>
+                    <p  className='text-[14px] font-[400]'>Counsel</p>
+                    <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
+                    </Link>
+                </div>
+                <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
+                <div className='w-1/2'>
+                    <Image src={Man13} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                </div>
+            </div>
+        </div>
+
+
+        <div className='w-full flex flex-col md:flex-row'>
+            <div className='relative flex flex-row-reverse md:flex-row md:w-1/2 items-center'>
+            <div className='w-1/2'>
+                    <Image src={Man12} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                </div>
+
+                <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
+                <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
+                <Link href='/chioma'>  <h1 className='text-[20px] font-[500]'>  CHIOMA OKEREKE</h1>
+                    <p  className='text-[14px] font-[400]'>Senior Counsel</p>
+                    <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
+                    </Link>
+                </div>
+               
+            </div>
+            <div className='flex md:w-1/2 items-center relative'>
+            <div className='w-1/2 '>
+                    <Image src={Man11} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                </div>
+                    <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
+
+                <div className=' h-[265px] md:h-[440px]   z-0 w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
+                <Link href='/fatima'> <h1 className='text-[20px] font-[500]'>FATIMA GURAMA</h1>
+                    <p  className='text-[14px] font-[400]'>Senior Counsel</p>
+                    <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
+                    </Link>
+                </div>
+               
+            </div>
+        </div>
+     </div>
+     <div className='w-full'>
+        <div className='w-full flex flex-col md:flex-row'>
+            <div className='relative items-center flex md:w-1/2'>
+                <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
+                   <Link href='/rabiu'> <h1 className='text-[20px] font-[500]'>RABIU SULEIMAN</h1>
+                    <p  className='text-[14px] font-[400]'> Counsel</p>
+                    <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
+                    </Link>
+                </div>
+                <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
+                <div className='w-1/2'>
+                    <Image src={Man14} alt='' className='w-full md:h-[440px] h-[265px]'/>
+                </div>
+            </div>
+            <div className='relative flex flex-row-reverse md:flex-row md:w-1/2 items-center'>
+                <div className='w-1/2  h-[265px]  md:h-[440px]  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
+
+                <Link href='/ibrahim'>  <h1 className='text-[20px] font-[500]'> HAUWA SULE IBRAHIM</h1>
+                    <p  className='text-[14px] font-[400]'>Counsel</p>
+                    <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
+                    </Link>
+                </div>
+                <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
+                <div className='w-1/2'>
+                    <Image src={Man13} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                </div>
+            </div>
+        </div>
+
+
+        <div className='w-full flex flex-col md:flex-row'>
+            <div className='relative flex flex-row-reverse md:flex-row md:w-1/2 items-center'>
+            <div className='w-1/2'>
+                    <Image src={Man12} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                </div>
+
+                <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
+                <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
+                <Link href='/chioma'>  <h1 className='text-[20px] font-[500]'>  CHIOMA OKEREKE</h1>
+                    <p  className='text-[14px] font-[400]'>Senior Counsel</p>
+                    <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
+                    </Link>
+                </div>
+               
+            </div>
+            <div className='flex md:w-1/2 items-center relative'>
+            <div className='w-1/2 '>
+                    <Image src={Man11} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                </div>
+                    <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
+
+                <div className=' h-[265px] md:h-[440px]   z-0 w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
+                <Link href='/fatima'> <h1 className='text-[20px] font-[500]'>FATIMA GURAMA</h1>
+                    <p  className='text-[14px] font-[400]'>Senior Counsel</p>
+                    <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
+                    </Link>
+                </div>
+               
+            </div>
+        </div>
+     </div>
+
+
+   
    </main>
   )
 }

@@ -58,8 +58,8 @@ function Page({ params }: ArticlePageProps) {
                                         <Image src={Comma} alt='' />
                                         "We are a market-leading, nationally-recognised firm for all your legal needs. Our lawyers provide customer centric advice to corporations and individuals across the world"
                                     </blockquote>
-                                    <p className='my-6'>{article.content}</p>
-                                    <p>{article.content}</p>
+                                    <p className='my-6'>{article.dept}</p>
+                                    {/* <p>{article.content}</p> */}
                                 </div>
                             </div>
                             <Divider className='mt-20' />

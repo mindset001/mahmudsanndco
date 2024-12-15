@@ -27,10 +27,10 @@ function Body() {
                     <div>
                         <h1 className='text-[28px] font-[500] mt-10'>Education</h1>
                         <ul className='list-disc flex flex-col gap-4 text-[16px] mt-2'>
-                            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis metus metus. Duis cursus, diam vel</li>
-                            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis metus metus. Duis cursus, diam vel</li>
-                            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis metus metus. Duis cursus, diam vel</li>
-                            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis metus metus. Duis cursus, diam vel</li>
+                            <li>Diploma in Law in 1985</li>
+                            <li> University of Maiduguri, LLB. 1989</li>
+                            <li>Nigerian Law School, BL.</li>
+                            {/* <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis metus metus. Duis cursus, diam vel</li> */}
                         </ul>
                     </div>
 
