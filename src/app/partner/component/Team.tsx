@@ -48,7 +48,7 @@ function Team() {
         <div className='w-full flex flex-col md:flex-row mt-16'>
             <div className='relative items-center flex md:w-1/2'>
                 <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
-                   <Link href='/george'> <h1 className='text-[20px] font-[500] capitalize'>OKECHUKWU GEORGE</h1>
+                   <Link href='/george'> <h1 className='text-[20px] font-[500] capitalize'>OKECHUKWU GEORGE (SAN)</h1>
                     <p  className='text-[14px] font-[400]'>Partner</p>
                     <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
                     </Link>
@@ -247,17 +247,16 @@ function Team() {
                     <Image src={Man18} alt='' className='w-full  h-[265px]  md:h-[440px] '/>
                 </div>
             </div>
-            <div className='relative flex flex-row-reverse md:flex-row md:w-1/2 items-center'>
-                <div className='w-1/2  h-[265px] md:h-[440px]  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
-
-                <Link href='/happiness'>    <h1 className='text-[20px] font-[500]'>NNAJI SOROCHUKWU</h1>
-                    <p  className='text-[14px] font-[400]'>Counsel</p>
+            <div className='relative items-center flex md:w-1/2'>
+                <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
+                   <Link href='/dada'> <h1 className='text-[20px] font-[500]'> JOSHUA PHILIP DADA</h1>
+                    <p  className='text-[14px] font-[400]'>Senior Counsel</p>
                     <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
                     </Link>
                 </div>
                 <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
                 <div className='w-1/2'>
-                    <Image src={Man17} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                    <Image src={Man23} alt='' className='w-full md:h-[440px] h-[265px]'/>
                 </div>
             </div>
         </div>
@@ -401,19 +400,21 @@ function Team() {
 
      <div className='w-full'>
         <div className='w-full flex flex-col md:flex-row'>
-            <div className='relative items-center flex md:w-1/2'>
-                <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
-                   <Link href='/dada'> <h1 className='text-[20px] font-[500]'> JOSHUA PHILIP DADA</h1>
-                    <p  className='text-[14px] font-[400]'>Senior Counsel</p>
+           
+            <div className='relative flex flex-row-reverse md:flex-row-reverse md:w-1/2 items-center'>
+                <div className='w-1/2  h-[265px] md:h-[440px]  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
+
+                <Link href='/happiness'>    <h1 className='text-[20px] font-[500]'>NNAJI SOROCHUKWU</h1>
+                    <p  className='text-[14px] font-[400]'>Counsel</p>
                     <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
                     </Link>
                 </div>
                 <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
                 <div className='w-1/2'>
-                    <Image src={Man23} alt='' className='w-full md:h-[440px] h-[265px]'/>
+                    <Image src={Man17} alt='' className='w-full  h-[265px] md:h-[440px] '/>
                 </div>
             </div>
-            <div className='relative flex flex-row-reverse md:flex-row md:w-1/2 items-center'>
+            <div className='relative flex flex-row-reverse md:flex-row-reverse md:w-1/2 items-center'>
                 <div className='w-1/2  h-[265px]  md:h-[440px]  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
 
                 <Link href='/khadijah'>  <h1 className='text-[20px] font-[500]'> KHADIJAH MUSTAPAH</h1>
@@ -430,7 +431,7 @@ function Team() {
 
 
         <div className='w-full flex flex-col md:flex-row'>
-            <div className='relative flex flex-row-reverse md:flex-row md:w-1/2 items-center'>
+            <div className='relative flex flex-row-reverse md:flex-row-reverse md:w-1/2 items-center'>
             <div className='w-1/2'>
                     <Image src={Man25} alt='' className='w-full  h-[265px] md:h-[440px] '/>
                 </div>
@@ -444,7 +445,7 @@ function Team() {
                 </div>
                
             </div>
-            <div className='flex md:w-1/2 items-center relative'>
+            <div className='flex md:w-1/2 items-center  md:flex-row-reverse relative'>
             <div className='w-1/2 '>
                     <Image src={Man26} alt='' className='w-full  h-[265px] md:h-[440px] '/>
                 </div>
@@ -462,7 +463,7 @@ function Team() {
      </div>
      <div className='w-full'>
         <div className='w-full flex flex-col md:flex-row'>
-            <div className='relative items-center flex md:w-1/2'>
+            <div className='relative items-center flex md:flex-row-reverse md:w-1/2'>
                 <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
                    <Link href='/cyril'> <h1 className='text-[20px] font-[500]'>CYRIL IRORAKPOR</h1>
                     <p  className='text-[14px] font-[400]'> Counsel</p>
@@ -474,7 +475,7 @@ function Team() {
                     <Image src={Man27} alt='' className='w-full md:h-[440px] h-[265px]'/>
                 </div>
             </div>
-            <div className='relative flex flex-row-reverse md:flex-row md:w-1/2 items-center'>
+            <div className='relative flex flex-row-reverse md:flex-row-reverse md:w-1/2 items-center'>
                 <div className='w-1/2  h-[265px]  md:h-[440px]  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
 
                 <Link href='/eleja'>  <h1 className='text-[20px] font-[500]'>ELEJA BANU ABDULRAHMAN</h1>
@@ -491,7 +492,7 @@ function Team() {
 
 
         <div className='w-full flex flex-col md:flex-row'>
-            <div className='relative flex flex-row-reverse md:flex-row md:w-1/2 items-center'>
+            <div className='relative flex flex-row-reverse md:flex-row-reverse md:w-1/2 items-center'>
             <div className='w-1/2'>
                     <Image src={Man29} alt='' className='w-full  h-[265px] md:h-[440px] '/>
                 </div>
@@ -505,7 +506,7 @@ function Team() {
                 </div>
                
             </div>
-            <div className='flex md:w-1/2 items-center relative'>
+            <div className='flex md:w-1/2 items-center md:flex-row-reverse relative'>
             <div className='w-1/2 '>
                     <Image src={Man30} alt='' className='w-full  h-[265px] md:h-[440px] '/>
                 </div>

@@ -17,7 +17,7 @@ function Body() {
 
                     <div>
                     <h1 className='text-[28px] font-[500]'>Background</h1>
-                    <p className='font-[400] text-[16px] text-justify'>Okechukwu Edeze obtained his LL.B from Ahmadu Bello University, Zaria in 2005. He was called to the Nigerian Bar in 2006. He obtained his LL.M (Investment Law) from Ahmadu Bello University, Zaria in 2011 and is currently a Ph.D Student at the same University.</p>
+                    <p className='font-[400] text-[16px] text-justify'>Okechukwu Edeze (SAN) obtained his LL.B from Ahmadu Bello University, Zaria in 2005. He was called to the Nigerian Bar in 2006. He obtained his LL.M (Investment Law) from Ahmadu Bello University, Zaria in 2011 and is currently a Ph.D Student at the same University.</p>
                          <p className='mt-4 font-[400] text-[16px] text-justify'>He has been in full time legal practice since his call to Bar. He joined the prestigious law firm of Mahmud & Co in 2017. </p>
 
                     </div>
