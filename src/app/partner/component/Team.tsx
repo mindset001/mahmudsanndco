@@ -31,6 +31,9 @@ import Man28 from '../../../../public/images/eleja.png'
 import Man29 from '../../../../public/images/anjorin.png'
 import Man30 from '../../../../public/images/husseni.png'
 import Man31 from '../../../../public/images/nabila.png'
+import Man32 from '../../../../public/images/efut.png'
+import Man33 from '../../../../public/images/zukogi.png'
+import Man34 from '../../../../public/images/aliyu.png'
 
 import Image from 'next/image'
 import Link from 'next/link'
@@ -265,13 +268,13 @@ function Team() {
         <div className='w-full flex flex-col md:flex-row'>
             <div className='relative flex flex-row-reverse md:flex-row md:w-1/2 items-center'>
             <div className='w-1/2'>
-                    <Image src={Man16} alt='' className='w-full  h-[265px]  md:h-[440px] '/>
+                    <Image src={Man29} alt='' className='w-full  h-[265px]  md:h-[440px] '/>
                 </div>
 
                 <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
                 <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
-                <Link href='/nuradeen'> <h1 className='text-[20px] font-[500]'> NURADEEN ABDULMUMIN</h1>
-                    <p  className='text-[14px] font-[400]'>Counsel</p>
+                <Link href='/anjorin'> <h1 className='text-[20px] font-[500]'>ANJORIN OLANIYI DAVID </h1>
+                    <p  className='text-[14px] font-[400]'>Senior Counsel</p>
                     <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
                     </Link>
                 </div>
@@ -460,6 +463,8 @@ function Team() {
                
             </div>
         </div>
+
+        
      </div>
      <div className='w-full'>
         <div className='w-full flex flex-col md:flex-row'>
@@ -494,12 +499,12 @@ function Team() {
         <div className='w-full flex flex-col md:flex-row'>
             <div className='relative flex flex-row-reverse md:flex-row-reverse md:w-1/2 items-center'>
             <div className='w-1/2'>
-                    <Image src={Man29} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                    <Image src={Man16} alt='' className='w-full  h-[265px] md:h-[440px] '/>
                 </div>
 
                 <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
                 <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
-                <Link href='/anjorin'>  <h1 className='text-[20px] font-[500]'>   ANJORIN OLANIYI DAVID</h1>
+                <Link href='/nuradeen'>  <h1 className='text-[20px] font-[500]'>   NURADEEN ABDULMUMIN</h1>
                     <p  className='text-[14px] font-[400]'>Senior Counsel</p>
                     <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
                     </Link>
@@ -515,6 +520,70 @@ function Team() {
                 <div className=' h-[265px] md:h-[440px]   z-0 w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
                 <Link href='/mibeza'> <h1 className='text-[20px] font-[500]'>HUSSAINI A MIBEZA</h1>
                     <p  className='text-[14px] font-[400]'> Counsel</p>
+                    <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
+                    </Link>
+                </div>
+               
+            </div>
+        </div>
+     </div>
+
+     <div className='w-full'>
+     <div className='w-full flex flex-col md:flex-row'>
+            <div className='relative flex flex-row-reverse md:flex-row md:w-1/2 items-center'>
+            <div className='w-1/2'>
+                    <Image src={Man31} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                </div>
+
+                <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
+                <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
+                <Link href='/nabila'>  <h1 className='text-[20px] font-[500]'>   NABILA ABDULLAHI</h1>
+                    <p  className='text-[14px] font-[400]'>Counsel</p>
+                    <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
+                    </Link>
+                </div>
+               
+            </div>
+            <div className='flex md:w-1/2 items-center md:flex-row relative'>
+            <div className='w-1/2 '>
+                    <Image src={Man32} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                </div>
+                    <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
+
+                <div className=' h-[265px] md:h-[440px]   z-0 w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
+                <Link href='/efut'> <h1 className='text-[20px] font-[500]'>EFUT OKOI</h1>
+                    <p  className='text-[14px] font-[400]'> HOD</p>
+                    <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
+                    </Link>
+                </div>
+               
+            </div>
+        </div>
+
+        <div className='w-full flex flex-col md:flex-row'>
+            <div className='relative flex flex-row-reverse md:flex-row-reverse md:w-1/2 items-center'>
+            <div className='w-1/2'>
+                    <Image src={Man33} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                </div>
+
+                <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
+                <div className=' h-[265px] md:h-[440px] w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
+                <Link href='/zukogi'>  <h1 className='text-[20px] font-[500]'>   AMINA T. ZUKOGI</h1>
+                    <p  className='text-[14px] font-[400]'>HOD</p>
+                    <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
+                    </Link>
+                </div>
+               
+            </div>
+            <div className='flex md:w-1/2 items-center md:flex-row-reverse relative'>
+            <div className='w-1/2 '>
+                    <Image src={Man34} alt='' className='w-full  h-[265px] md:h-[440px] '/>
+                </div>
+                    <div className='absolute left-[40%] w-[153px] z-10 h-[1px] bg-[#5C5A5A] '></div>
+
+                <div className=' h-[265px] md:h-[440px]   z-0 w-1/2  bg-[#FFF1C6] flex flex-col justify-center pl-10 md:pl-40 gap-[2px]'>
+                <Link href='/aliyu'> <h1 className='text-[20px] font-[500]'>ALIYU D. HUSSAIN</h1>
+                    <p  className='text-[14px] font-[400]'> HOD</p>
                     <Image src={Right} alt='' className='w-[18px] h-[18px]'/>
                     </Link>
                 </div>
