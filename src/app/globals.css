@@ -42,7 +42,7 @@ body {
   height: 90vh;
   padding: 30px 0;
   overflow: hidden; /* Prevents horizontal scroll on desktop */
-  animation: slideBackground 20s linear infinite; /* Adjust duration for smoother effect */
+  animation: slideBackground 10s linear infinite; /* Adjust duration for smoother effect */
 }
 
 

@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import About from '../../../../public/images/about.png'
+import About from '../../../../public/images/new/IMG_3276.jpgg.jpg'
 
 function Hero() {
   return (

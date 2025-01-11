@@ -111,7 +111,7 @@ const Nav2 = [
 
 const Nav3 = [
     {name:'No. 9 Bozoum Close, Off Adetokunbo Ademola, Behind AP Plaza,  Wuse II,  Abuja.', link: ''},
-    {name:' (+234) 8033 1171 97', link: ''},
+    {name:' (+234) 803 153 2000', link: ''},
     {name:'rahusachamberssan@gmail.com rahusachambers@yahoo.com', link: ''},
   
 ]

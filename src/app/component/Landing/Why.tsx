@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import Why1 from '../../../../public/images/new/why2.jpg'
+import Why1 from '../../../../public/images/why.png'
 import Link from 'next/link'
 function Why() {
   return (

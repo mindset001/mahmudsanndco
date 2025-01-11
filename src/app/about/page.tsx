@@ -3,6 +3,7 @@ import Hero from './component/Hero'
 import Mission from './component/Mission'
 import Values from './component/Values'
 import Newsletter from '../component/Newsletter'
+import Gallerypage from './gallery/GallaryPage'
 
 function page() {
   return (
@@ -10,6 +11,7 @@ function page() {
         <Hero/>
         <Mission/>
         <Values/>
+        <Gallerypage/>
         <Newsletter/>
     </main>
   )

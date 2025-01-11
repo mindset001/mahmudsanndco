@@ -1,6 +1,6 @@
 import { Select } from 'antd'
 import Image from 'next/image'
-import Tower from '../../../../public/images/tower.png'
+import Tower from '../../../../public/images/new/IMG_3276.jpgg.jpg'
 import React from 'react'
 
 function Body() {

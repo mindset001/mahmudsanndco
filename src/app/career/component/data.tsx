@@ -12,7 +12,7 @@ export const articles = [
         name: 'Issa Abba',
         title: 'Internship',
         dept: 'At M.A Mahmud & Co , we are committed to fostering the next generation of legal talent. Our internship program provides aspiring lawyers with hands-on experience, meaningful mentorship, and exposure to real-world legal practice. From conducting in-depth legal research to drafting documents and participating in case strategy discussions, interns play an integral role in our dynamic team. We believe in creating a supportive environment where you can sharpen your skills, deepen your understanding of the law, and build a strong foundation for your career. If you are passionate, driven, and eager to learn, we invite you to explore the opportunity to grow with us.',
-        content: 'Join Our Team: Empowering Future Legal Leaders'
+        content: 'Empowering Future Legal Leaders'
     },
  
   

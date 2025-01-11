@@ -51,12 +51,12 @@ function Page({ params }: ArticlePageProps) {
                                     height={600}
                                     className="w-full "
                                 />
-                                <div className="text-gray-500 mt-4">{article.date} • Energy Law</div>
+                                {/* <div className="text-gray-500 mt-4">{article.date} • Energy Law</div> */}
                                 <div className="mt-4 text-justify">
-                                    <p>{article.content}</p>
-                                    <blockquote className="ml-6 italic flex items-center gap-4 my-6 text-justify">
-                                        <Image src={Comma} alt='' />
-                                        "We are a market-leading, nationally-recognised firm for all your legal needs. Our lawyers provide customer centric advice to corporations and individuals across the world"
+                                    <p><span className='text-[20px] font-[600]'>Join Our Team: </span>{article.content}</p>
+                                    <blockquote className=" flex items-center gap-4 my-6 text-justify">
+                                        {/* <Image src={Comma} alt='' /> */}
+                                        We are a market-leading, nationally-recognised firm for all your legal needs. Our lawyers provide customer centric advice to corporations and individuals across the world
                                     </blockquote>
                                     <p className='my-6'>{article.dept}</p>
                                     {/* <p>{article.content}</p> */}
