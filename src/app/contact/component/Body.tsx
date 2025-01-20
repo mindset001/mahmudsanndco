@@ -68,7 +68,7 @@ function Body() {
                         <div className='rounded-full bg-[#D9D9D9] h-[67px] w-[68px]'></div>
                         <div>
                             <h2 className='text-[25px] font-[400] leading-[30.48px] mb-2'>Phone</h2>
-                            <p className='text-[14px] font-[400] leading-[20px]'>(+234) 8033 1171 97</p>
+                            <p className='text-[14px] font-[400] leading-[20px]'> (+234) 803 153 2000</p>
                         </div>
                     </div>
 
